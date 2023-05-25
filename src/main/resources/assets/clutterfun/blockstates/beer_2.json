@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "clutterfun:block/beer1"
+    },
+    "facing=east": {
+      "model": "clutterfun:block/beer1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "clutterfun:block/beer1"
+    },
+    "facing=west": {
+      "model": "clutterfun:block/beer1",
+      "y": 90
+    },
+    "facing=up": {
+      "model": "clutterfun:block/beer1",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "clutterfun:block/beer1",
+      "x": 270
+    }
+  }
+}
